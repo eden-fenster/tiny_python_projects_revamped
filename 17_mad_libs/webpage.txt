@@ -1,0 +1,21 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>A very simple webpage</title>
+<basefont size="4">
+</head>
+
+<body bgcolor="FFFFFF">
+
+<h1>A very simple webpage. This is an "h1" level header.</h1>
+
+<h2>This is a level h2 header.</h2>
+
+<h6>This is a level h6 header.  Pretty small!</h6>
+
+<p>This is a standard paragraph.</p>
+
+<p align="center">Now I've aligned it in the center of the screen.</p>
+
+<p align="right">Now aligned to the right</p>
+
+</body></html>

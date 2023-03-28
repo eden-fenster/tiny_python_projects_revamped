@@ -1,0 +1,12 @@
+A
+
+APPLE A fruit.
+AVOCADO A vegatable.
+
+B
+
+BANANA A fruit.
+
+C
+
+CAR It has wheels.

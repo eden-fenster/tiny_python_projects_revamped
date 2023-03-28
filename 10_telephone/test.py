@@ -7,7 +7,7 @@ import random
 import re
 import string
 
-prg = "./telephone.py"
+prg = "./telephone_list.py"
 fox = '../inputs/fox.txt'
 now = '../inputs/now.txt'
 

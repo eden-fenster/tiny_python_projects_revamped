@@ -1,0 +1,2 @@
+usage: abuse.py [-h] [-a adjectives] [-n insults] [-s seed]
+abuse.py: error: --adjectives "-1" must be > 0

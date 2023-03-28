@@ -5,3 +5,7 @@ mypy
 pylint
 pytest
 yapf
+
+PyYAML~=6.0
+emoji~=1.7.0
+tabulate~=0.8.9
